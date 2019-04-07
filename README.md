@@ -9,7 +9,6 @@ In this project we will analyse the following datasets:
 
 TO analyse SIDER we will use Deedpchem 
 
-To analyse the others datasets we are still studying the best to do that
 
 The Featurizations that will be used in the project:
 

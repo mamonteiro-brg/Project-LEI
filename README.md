@@ -18,7 +18,7 @@ Graph Convolutions
  
 Weave
 
-    With the same feature vectors for atoms as Graph convolutions featurizer, Weave featurizer elaborates the neighbour list as a matrix of pair feature vectors, each representing the connectivity and distance between a pair of atoms.
+  With the same feature vectors for atoms as Graph convolutions featurizer, Weave featurizer elaborates the neighbour list as a matrix of pair feature vectors, each representing the connectivity and distance between a pair of atoms.
 
 The first models used in the project will be
 

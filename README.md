@@ -22,6 +22,6 @@ Weave
 
 The first models used in the project will be
 
-Multitask Network vs Single Task
-Grapfh convolution Model
-Weave Model 
+  - Multitask Network vs Single Task
+  - Grapfh convolution Model
+  - Weave Model 

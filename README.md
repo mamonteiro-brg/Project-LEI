@@ -29,5 +29,5 @@ The first models used in the project will be
 
 
 Sites:
-https://deepchem.io/
-http://moleculenet.ai/
+-https://deepchem.io/
+-http://moleculenet.ai/

@@ -1,6 +1,6 @@
 # Project-LEI
 
-This is a Project where we will want to predicting safety of drug combinations.
+This is a Project where we want to predict the safety of drug combinations.
 
 In this project we will analyse the following datasets:
   - SIDER

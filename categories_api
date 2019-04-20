@@ -31,15 +31,25 @@ def get_json(url):
 #teste = cuis.head(2)
 
 for item in cuis:
-    search_results = get_json(REST_URL + "/search?cui="+item)
-    collection = search_results.get("collection")
-    x = collection[0]
-    y = x.get("links")
-    url_tree = y.get("tree")
-    parent_search_results = get_json(url_tree)[0]
-    root_category = parent_search_results.get("prefLabel")
-    df2 = pd.DataFrame([[item, root_category]], columns={'CUI','ROOT'})
-    df = df.append(df2,ignore_index=True)
+    try:
+        search_results = get_json(REST_URL + "/search?cui="+item)
+        try:
+            collection = search_results.get("collection")
+            if len(collection) > 0 :
+                x = collection[0]
+                y = x.get("links")
+                url_tree = y.get("tree")
+                parent_search_results = get_json(url_tree)[0]
+                root_category = parent_search_results.get("prefLabel")
+                df2 = pd.DataFrame([[item, root_category]], columns={'CUI','ROOT'})
+                df = df.append(df2,ignore_index=True)
+        except:
+            print("collections deu erro no CUI "+ item)
+            
+        
+    except:
+        print("get_json do CUI"+item+ " deu erro")
+    
     
 df.to_excel('output.xlsx', header=True, index=False)
     

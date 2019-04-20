@@ -3,6 +3,7 @@
 # Contributors
 
 [Ângela Barros](https://github.com/angelabarros)
+
 [Manuel Monteiro](https://github.com/mamonteiro-brg)
 
 

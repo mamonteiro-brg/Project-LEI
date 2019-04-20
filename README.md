@@ -1,5 +1,11 @@
 # Project-LEI
 
+# Contributors
+
+[Ângela Barros](https://github.com/angelabarros)
+[Manuel Monteiro](https://github.com/mamonteiro-brg)
+
+
 This is a Project where we want to predict the safety of drug combinations.
 
 In this project we will analyse the following datasets:

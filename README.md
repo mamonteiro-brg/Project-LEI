@@ -3,11 +3,12 @@
 This is a Project where we want to predict the safety of drug combinations.
 
 In this project we will analyse the following datasets:
+
   - SIDER
   - OFFSIDES
   - TOWSIDES
 
-TO analyse SIDER we will use Deedpchem 
+To analyse SIDER we will use Deedpchem 
 
 
 The Featurizations that will be used in the project:
@@ -32,3 +33,7 @@ Sites:
   - https://deepchem.io/
 
   - http://moleculenet.ai/
+
+
+In order to match the side effects to the same categories we used an API in order to accomplish that: http://data.bioontology.org/
+The first step in the processing phase was to map out the categories in order to use the OFFSIDES dataset in the same way that SIDER was used.

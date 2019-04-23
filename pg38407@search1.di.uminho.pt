@@ -28,7 +28,7 @@ def get_json(url):
     opener.addheaders = [('Authorization', API_KEY)]
     return json.loads(opener.open(url).read().decode('utf-8'))
 
-cuis = cuis.drop_duplicates()
+#teste = cuis.head(2)
 
 for item in cuis:
     try:
@@ -48,8 +48,8 @@ for item in cuis:
             
         
     except:
-        print("get_json do CUI "+item+ " deu erro")
+        print("get_json do CUI"+item+ " deu erro")
     
     
-df.to_excel('output2.xlsx', header=True, index=False)
+df.to_excel('output.xlsx', header=True, index=False)
     

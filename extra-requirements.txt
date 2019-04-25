@@ -1,0 +1,5 @@
+ 
+ 
+conda install -c conda-forge rdkit
+pip install deepchem
+conda install -c conda-forge  simdna

@@ -1,8 +1,12 @@
 
 
+Link dos exemplos que funcionam 
+
+    https://github.com/deepchem/deepchem/tree/master/examples/tox21
 
 Seq2seq fingerprint
-
+    http://localhost:8888/notebooks/deepchem/examples/notebooks/seqtoseq_fingerprint.ipynb
+    
 
 Embeddings dos compostos
 
@@ -24,7 +28,9 @@ deep learning on graphs with Graph Convolutional Networks (GCNs), a powerful typ
 
 AUC-ROC¶
     https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
-
+    https://www.youtube.com/watch?v=OAl6eAyP-yo
+    
+    
 F1 Score¶
     https://www.ritchieng.com/machinelearning-f1-score/
     https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124
@@ -77,3 +83,39 @@ sites importantes:
     
     
 ---------------
+
+
+Hyperparameters
+
+All models were trained on Stanford’s GPU clusters via DeepChem. No model was allowed
+to train for more than 10 hours(time profile in Table 4. Users can reproduce benchmarks
+locally by following directions from DeepChem.
+Hyperparameters were determined using Gaussian Process Optimization via pyGPGO
+(https://github.com/hawk31/pyGPGO), with max number of iterations set to 20. Optimized hyperparameters for each model are listed, detailed hyperparameters can be found on
+Deepchem.
+
+Multitask/Singletask Networks
+    • Layer size
+    • Weight - initial standard deviation
+    • Bias - initial constant
+    • Learning rate
+    • L2 regularization
+    • Batch size
+
+
+Graph Convolutional models (GC)
+    • Layer size of convolutional layers
+    • Layer size of fully-connected layer
+    • Learning rate
+    • Batch size
+    
+    
+Weave models
+    • Length of output features(layer size) of convolutional layers
+    • Learning rate
+    • Batch size
+    
+    
+    
+standard neural network layers such as Dense and BatchNorm
+

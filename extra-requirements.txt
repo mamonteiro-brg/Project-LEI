@@ -4,7 +4,7 @@ conda install -c conda-forge rdkit
 pip install deepchem
 conda install -c conda-forge  simdna
 pip install git+https://github.com/samoturk/mol2vec
-
+pip install utils
 
 To build the documentation of Mol2vec 
 

@@ -11,3 +11,9 @@ To build the documentation of Mol2vec
     pip install sphinx 
     pip install numpydoc 
     pip install sphinx_rtd_theme 
+    
+    conda install -c rdkit rdkit 
+    ou
+    conda install -c rdkit/label/attic rdkit
+    também instalei sudo apt-get install python-rdkit librdkit1 rdkit-data
+

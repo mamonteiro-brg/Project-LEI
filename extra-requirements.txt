@@ -17,3 +17,4 @@ To build the documentation of Mol2vec
     conda install -c rdkit/label/attic rdkit
     também instalei sudo apt-get install python-rdkit librdkit1 rdkit-data
 
+pip install scikit-multilearn

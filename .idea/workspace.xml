@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc38194-580a-4899-b6b4-06fcbbc31673" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_IRV_classifier-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_IRV_classifier-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIDER/sider_GridSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Project-LEI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project-LEI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_MultitaskClassifier-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_MultitaskClassifier-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_SeqToSeq_Fingerprint-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_SeqToSeq_Fingerprint-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_graph_conv-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_graph_conv-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIDER/sider_IRV_classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/sider_IRV_classifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_mol2vec_randomForest-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/.ipynb_checkpoints/sider_mol2vec_randomForest-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SIDER/sider_MultitaskClassifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/sider_MultitaskClassifier.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIDER/sider_SeqToSeq_Fingerprint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/sider_SeqToSeq_Fingerprint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIDER/sider_SeqToSeq_Fingerprint.py" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/sider_SeqToSeq_Fingerprint.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SIDER/sider_graph_conv.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/sider_graph_conv.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/untitled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIDER/sider_mol2vec_randomForest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SIDER/sider_mol2vec_randomForest.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/extra-requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extra-requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mol2vec/examples/01 - Basic concepts of Mol2vec.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mol2vec/examples/01 - Basic concepts of Mol2vec.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mol2vec/examples/02 - Supervised machine learning with Mol2vec.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mol2vec/examples/02 - Supervised machine learning with Mol2vec.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/.ipynb_checkpoints/embeddings-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/.ipynb_checkpoints/embeddings-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/embeddings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/embeddings.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,40 +24,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SIDER/sider_SeqToSeq_Fingerprint.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OFFSIDES/map_meddra2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="122" selection-start-line="122" selection-end-line="122" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda3/envs/lei_deepchem_python36/lib/python3.6/site-packages/deepchem/models/tensorgraph/models/seqtoseq.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sider_embe</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,50 +39,32 @@
       <list>
         <option value="$PROJECT_DIR$/SIDER/sider_SeqToSeq_Fingerprint.py" />
         <option value="$PROJECT_DIR$/OFFSIDES/map_meddra2.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-        <option value="$PROJECT_DIR$/.idea/Project-LEI.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/SIDER/Sider_GridSearch.py" />
+        <option value="$PROJECT_DIR$/SIDER/sider_GridSearch.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="232" />
-    <option name="y" value="168" />
-    <option name="width" value="1401" />
-    <option name="height" value="791" />
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1843" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project-LEI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-LEI" type="462c0819:PsiDirectoryNode" />
-              <item name="OFFSIDES" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-LEI" type="462c0819:PsiDirectoryNode" />
-              <item name="OFFSIDES" type="462c0819:PsiDirectoryNode" />
-              <item name="map_meddra2.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
               <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
@@ -122,163 +77,23 @@
               <item name="SIDER" type="462c0819:PsiDirectoryNode" />
               <item name="sider_SeqToSeq_Fingerprint.py" type="8704e2dd:PyFileNode" />
             </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorgraph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorgraph" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorgraph" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="seqtoseq.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorgraph" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="seqtoseq.py" type="8704e2dd:PyFileNode" />
-              <item name="SeqToSeq" type="dd8bbb05:PyElementNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorgraph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorgraph" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorgraph" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="seqtoseq.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="Project-LEI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (lei_deepchem_python36) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="deepchem" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorgraph" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="seqtoseq.py" type="8704e2dd:PyFileNode" />
-              <item name="SeqToSeq" type="dd8bbb05:PyElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SIDER" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -292,7 +107,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Sider_GridSearch">
+    <configuration name="Sider_GridSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project-LEI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SIDER" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SIDER/sider_GridSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sider_SeqToSeq_Fingerprint" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project-LEI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sider_GridSearch" />
         <item itemvalue="Python.sider_SeqToSeq_Fingerprint" />
       </list>
     </recent_temporary>
@@ -324,21 +161,20 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="25" width="1867" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="45" y="25" width="1875" height="1055" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32914045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32914045" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -347,31 +183,71 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda3/envs/lei_deepchem_python36/lib/python3.6/site-packages/deepchem/models/tensorgraph/models/seqtoseq.py" />
+    <entry file="file://$PROJECT_DIR$/OFFSIDES/map_meddra2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/example.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/sider_weave.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/sider_mol2vec_multitask.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/sider_mol2vec_randomForest.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/sider_IRV_classifier.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/sider_GridSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/sider_graph_conv.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/sider.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/my_history.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIDER/idg-dream.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/SIDER/sider_SeqToSeq_Fingerprint.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="315">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/lei_deepchem_python36/lib/python3.6/site-packages/deepchem/models/tensorgraph/models/seqtoseq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OFFSIDES/map_meddra2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/SIDER/sider_MultitaskClassifier.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

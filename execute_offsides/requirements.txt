@@ -1,0 +1,12 @@
+jupyter
+numpy
+pandas
+tensorflow
+matplotlib
+Keras
+scipy
+scikit-learn
+seaborn
+deepchem
+pubchempy
+rdkit

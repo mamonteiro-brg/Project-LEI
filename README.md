@@ -15,7 +15,6 @@ In this project we will analyse the following datasets:
 
   - SIDER
   - OFFSIDES
-  - TOWSIDES
 
 ## Development
 To analyse SIDER we will use Deedpchem (https://deepchem.io/)
@@ -36,7 +35,6 @@ The first models used in the project will be
   - Multitask Network
   - Single Task
   - Graph convolution Model
-  - Weave Model 
 
 
 ## Resources

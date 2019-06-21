@@ -160,3 +160,9 @@ for index, row in df_final.iterrows():
     
 df_final = df_final.fillna(1)
 df_final.to_excel('output_final.xlsx', header=True, index=False)
+
+z = df_final.drop_duplicates('smiles')
+z.to_csv('output_final75.csv', header=True, index=True)
+
+
+

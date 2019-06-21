@@ -18,3 +18,6 @@ To build the documentation of Mol2vec
     também instalei sudo apt-get install python-rdkit librdkit1 rdkit-data
 
 pip install scikit-multilearn
+
+
+pip install keras-gcn
